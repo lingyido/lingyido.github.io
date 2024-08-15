@@ -77,3 +77,8 @@ To prevent reentrancy attacks, consider the following approaches, using them all
 ## Conclusion
 
 Reentrancy attacks can be catastrophic if left unchecked. By understanding the risks and applying these mitigation strategies, developers can protect their NEO N3 smart contracts from such vulnerabilities. Always prioritize security in your development process to build robust and secure blockchain applications.
+
+## Further Reading
+
+* use claim pattern instead of transferring pattern
+* multiple contracts reentrancy

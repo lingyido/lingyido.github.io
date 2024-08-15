@@ -8,7 +8,7 @@ Blockchain technology promises a decentralized and tamper-proof digital infrastr
 
 ## Key Security Topics on NEO N3
 
-Here are some key security topics that will be covered in our blog series:
+Here are some key security topics that will be covered in our N3 blog series. Even if you are familiar with all EVM-chain securities, these are very important topics for you.
 
 ### [Reentrancy Attacks](./reentrancy-attack.md)
 
@@ -22,9 +22,9 @@ Properly managing access control and permissions is crucial for ensuring that on
 
 Storing data securely on the blockchain is essential to maintain the integrity and confidentiality of sensitive information. We will explore techniques for protecting data stored within smart contracts on NEO N3.
 
-### [Oracle and External Data Integration](./oracle-security.md)
+### [Random Data Integration](./random-security.md)
 
-Oracles play a vital role in connecting smart contracts to external data sources. However, they also introduce potential security risks. This article will discuss strategies for securely integrating oracles in NEO N3 contracts.
+TODO
 
 ### [Smart Contract Testing and Auditing](./testing-auditing.md)
 

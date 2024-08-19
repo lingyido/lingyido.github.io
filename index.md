@@ -24,7 +24,7 @@ Storing data securely on the blockchain is essential to maintain the integrity a
 
 ### [Random Data Integration](./random-security.md)
 
-TODO
+Integrating random data into smart contracts is a complex challenge, particularly on a deterministic blockchain. This article explores secure methods for generating and using random data in NEO N3 smart contracts, highlighting potential vulnerabilities and how to mitigate them.
 
 ### [Smart Contract Testing and Auditing](./testing-auditing.md)
 

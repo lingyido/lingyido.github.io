@@ -10,4 +10,9 @@ Use [neo-express](https://github.com/neo-project/neo-express)
 
 Use [neo-fairy-test](https://github.com/Hecate2/neo-fairy-test/)
 
-* introduce some famous auditing team on N3
+#### introduce some famous auditing team on N3
+
+* [overlord](https://overlord.wtf/)
+  * mainly focused on NEO
+* [Red4Sec](https://red4sec.com/)
+  * farmaliar with NEO
